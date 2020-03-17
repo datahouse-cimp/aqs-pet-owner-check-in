@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AQSOwnerCheckIn", "AQSOwnerCheckIn\AQSOwnerCheckIn.csproj", "{45E658E7-CB6A-4E6F-9808-5FE5980C3B29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Local|Any CPU = Local|Any CPU
+		Local-Sandbox|Any CPU = Local-Sandbox|Any CPU
+		Local-Test|Any CPU = Local-Test|Any CPU
+		Prod|Any CPU = Prod|Any CPU
+		Sandbox|Any CPU = Sandbox|Any CPU
+		Test|Any CPU = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45E658E7-CB6A-4E6F-9808-5FE5980C3B29}.Local|Any CPU.ActiveCfg = Local|Any CPU
+		{45E658E7-CB6A-4E6F-9808-5FE5980C3B29}.Local|Any CPU.Build.0 = Local|Any CPU
+		{45E658E7-CB6A-4E6F-9808-5FE5980C3B29}.Local-Sandbox|Any CPU.ActiveCfg = Local-Sandbox|Any CPU
+		{45E658E7-CB6A-4E6F-9808-5FE5980C3B29}.Local-Sandbox|Any CPU.Build.0 = Local-Sandbox|Any CPU
+		{45E658E7-CB6A-4E6F-9808-5FE5980C3B29}.Local-Test|Any CPU.ActiveCfg = Local-Test|Any CPU
+		{45E658E7-CB6A-4E6F-9808-5FE5980C3B29}.Local-Test|Any CPU.Build.0 = Local-Test|Any CPU
+		{45E658E7-CB6A-4E6F-9808-5FE5980C3B29}.Prod|Any CPU.ActiveCfg = Prod|Any CPU
+		{45E658E7-CB6A-4E6F-9808-5FE5980C3B29}.Prod|Any CPU.Build.0 = Prod|Any CPU
+		{45E658E7-CB6A-4E6F-9808-5FE5980C3B29}.Sandbox|Any CPU.ActiveCfg = Sandbox|Any CPU
+		{45E658E7-CB6A-4E6F-9808-5FE5980C3B29}.Sandbox|Any CPU.Build.0 = Sandbox|Any CPU
+		{45E658E7-CB6A-4E6F-9808-5FE5980C3B29}.Test|Any CPU.ActiveCfg = Test|Any CPU
+		{45E658E7-CB6A-4E6F-9808-5FE5980C3B29}.Test|Any CPU.Build.0 = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
