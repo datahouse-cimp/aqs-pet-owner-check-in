@@ -16,7 +16,7 @@ After cloning this project locally, you will need to download the packages that 
 
 > **Restore Packages in package.json**
 > 
-> 1. Type 'npm install' in terminal of choice (command prompt, git bash). Node must be installed in order for this to work. 
+> 1. Type 'npm install' in terminal. Must be able to run Unix commands, so git bash is best. If using Windows command prompt, you would have to update the script found in package.json to use del instead of rm. Node must be installed in order for this to work. 
 
 > **Add Client Proxies to Reference paths**
 >
